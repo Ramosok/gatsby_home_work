@@ -1,8 +1,8 @@
 {
-  "name": "react_gatsby_project_test",
+  "name": "react_ssr_gatsby_example",
   "version": "1.0.0",
   "private": true,
-  "description": "react_gatsby_project_test",
+  "description": "react_ssr_gatsby_example",
   "author": "Ramosok",
   "keywords": [
     "gatsby"

@@ -1,11 +1,12 @@
 module.exports = {
   siteMetadata: {
     siteUrl: "https://www.yourdomain.tld",
-    title: "react_gatsby_project_test",
+    title: "react_ssr_gatsby_example",
   },
   plugins: [
     "gatsby-plugin-styled-components",
     "gatsby-plugin-image",
+    "gatsby-plugin-react-helmet",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sitemap",
     {
